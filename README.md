@@ -13,8 +13,8 @@ Passionately navigating the realms of Full-Stack Web Development and DevOps, I r
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/razvanrun"><img align="left" src=".github/assets/linkedin.svg" alt="Răzvan Gheorghe | LinkedIn" width="21px"/></a>
-<a href="mailto:razvan@ideacat.ro"><img align="left" src=".github/assets/mail.svg" alt="Răzvan Gheorghe | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/razvanrun"><img align="left" src=".github/assets/linkedin.svg" alt="Răzvan Gheorghe | LinkedIn" width="32px"/></a>
+<a href="mailto:razvan@ideacat.ro"><img align="left" src=".github/assets/mail.svg" alt="Răzvan Gheorghe | Instagram" width="32px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
