@@ -1,6 +1,12 @@
 <p align="center">
-  <a href="https://ideacat.ro/" target="_blank" rel="noreferrer"><img src=".github/assets/ideacatlab_banner.svg" alt="Răzvan Gheorghe Banner"></a>
+  <a href="https://ideacat.ro/" target="_blank" rel="noreferrer">
+      <picture>
+        <source srcset=".github/assets/ideacatlab_banner.svg"  media="(prefers-color-scheme: dark)">
+        <img src=".github/assets/banner-dark.svg" alt="Răzvan Gheorghe Banner">
+    </picture>
+  </a>
 </p>
+
 <h3 align="center">
 Hi there, I'm <a href="https://ideacat.ro/" target="_blank" rel="noreferrer">Răzvan</a>
 </h3>
